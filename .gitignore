@@ -1,0 +1,4 @@
+*.log
+.vs/
+mymemo/obj
+mymemo/bin
